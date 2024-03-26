@@ -1,0 +1,17 @@
+.player {
+  height: 40px;
+}
+.score button {
+  width: 30px;
+  cursor: pointer;
+  margin: 10px;
+}
+.numbers {
+  padding-left: 10px;
+}
+.age {
+  padding-left: 60px;
+}
+.score {
+  padding-left: 40px;
+}

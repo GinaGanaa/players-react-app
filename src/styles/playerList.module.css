@@ -1,0 +1,23 @@
+.playerList {
+  width: 900px;
+  margin: auto;
+}
+.playerList tbody tr:nth-child(2n + 1) {
+  background-color: rgb(230, 230, 230);
+}
+
+.playerList {
+  border-spacing: 0px;
+}
+.playerList thead tr {
+  text-align: left;
+}
+.sort {
+  margin-right: 10px;
+  width: 130px;
+  height: 30px;
+  cursor: pointer;
+}
+.hashtag {
+  padding-left: 10px;
+}
