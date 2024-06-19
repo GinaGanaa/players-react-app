@@ -1,4 +1,4 @@
-import { Player } from "./Player";
+import { Player } from "Player.jsx";
 import style from "../styles/playerList.module.css";
 import { useState } from "react";
 import styles from "../styles/header.module.css";

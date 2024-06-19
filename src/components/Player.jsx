@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styles from "../styles/player.module.css";
 
 export function Player(props) {
