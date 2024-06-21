@@ -26,7 +26,6 @@ export const PlayerList = (props) => {
     setPlayers([...players]);
   }
   // players[0].age = 100;
-  // console.log(players);
 
   return (
     <table className={style.playerList}>
